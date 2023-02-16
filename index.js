@@ -17,7 +17,7 @@ say('CRIWILOP_BOT', {
 font: 'tiny',
 align: 'center',
 colors: ['#ff8000']})
-say(`⍣ᴄʀɪᴡɪʟᴏᴘ࿐\n-\nJose ortiz `, {
+say(`jose\n-\n ortiz `, {
 font: 'console',
 align: 'center',
 colors: ['red']})
