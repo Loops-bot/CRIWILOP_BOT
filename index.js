@@ -17,7 +17,7 @@ say('CRIWILOP-BOT', {
 font: 'tiny',
 align: 'center',
 colors: ['#ff8000']})
-say(`⍣ᴄʀɪᴡɪʟᴏᴘ࿐\n-\n+573244488043`, {
+say(`SOPORTE PARA EL BOT\n-\n+573244488043`, {
 font: 'console',
 align: 'center',
 colors: ['red']})
