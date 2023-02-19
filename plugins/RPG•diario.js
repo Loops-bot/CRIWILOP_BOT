@@ -1,7 +1,7 @@
 const rewards = {
   exp: 9999,
-  money: 4999,
-  potion: 5,
+  money: 49999,
+  potion: 50,
 }
 const cooldown = 86400000
 let handler = async (m,{ conn} ) => {
@@ -18,7 +18,7 @@ let handler = async (m,{ conn} ) => {
 }
 handler.help = ['daily', 'claim']
 handler.tags = ['xp']
-handler.command = /^(daily|diario)$/i
+handler.command = /^(daily|diario|claim)$/i
 
 handler.cooldown = cooldown
 
