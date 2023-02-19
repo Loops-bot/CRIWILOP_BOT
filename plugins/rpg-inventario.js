@@ -181,20 +181,20 @@ let handler = async (m, { conn, args, text, usedPrefix, command }) => {
 let buttonMessage= {
 'document': { url: `https://github.com/ALBERTO9883` },
 'mimetype': `application/pdf`,
-'fileName': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`,
+'fileName': `⍣𝘾𝙍𝙄𝙒𝙄𝙇𝙊𝙋_𝘽𝙊𝙏࿐`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/ALBERTO9883',
+'mediaUrl': 'https://github.com/CRIWILOP/CRIWILOP_BOT',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': `🎒₊• ̥ 𝗜𝗡𝗩𝗘𝗡𝗧𝗔𝗥𝗜𝗢  •̥₊🎒`,
 'body': ``,
 'thumbnail': global.imginv,
-'sourceUrl': 'https//wa.me/50499698072' }},
+'sourceUrl': 'https//wa.me/573244488043' }},
 'mentions': [m.sender],
 'caption': inv,
 'footer': `\n${global.saludo}`,
