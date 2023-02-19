@@ -55,20 +55,20 @@ const _pickaxe = global.db.data.users[m.sender].pickaxe
 let buttonMessage= {
 'document': { url: `https://github.com/ALBERTO9883` },
 'mimetype': `application/pdf`,
-'fileName': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`,
+'fileName': `⍣𝘾𝙍𝙄𝙒𝙄𝙇𝙊𝙋_𝘽𝙊𝙏࿐`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/ALBERTO9883',
+'mediaUrl': 'https://github.com/CRIWILOP/CRIWILOP_BOT',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': `🌺₊• ̥ 𝗧𝗜𝗘𝗡𝗗𝗔 𝗥𝗣𝗚 •̥₊🌺`,
 'body': ``,
 'thumbnail': global.imgshop,
-'sourceUrl': 'https//wa.me/50499698072' }},
+'sourceUrl': 'https//wa.me/573244488043' }},
 'mentions': [m.sender],
 'caption': Kchat,
 'footer': `\n${global.saludo}`,
