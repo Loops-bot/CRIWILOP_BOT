@@ -22,7 +22,7 @@ let texto1 = `*⊜─⌈📻 ◜YouTube Doc.◞ 📻⌋─⊜*
 ❏ 👀 *Vistas:* ${views}
 `
 let buttonMessage = {
-"document": { url: "https://wa.me/50499698072" }, 
+"document": { url: "https://wa.me/573244488043" }, 
 "fileName": botname, 
 "mimetype": 'application/vnd.ms-excel',
 "caption": texto1,
@@ -48,4 +48,5 @@ console.log(e)}}
 handler.help = ['playdoc *<song name>*']
 handler.tags = ['downloader']
 handler.command = /^play3|playdoc?$/i
+handler.limit = 3
 export default handler
