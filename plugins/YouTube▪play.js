@@ -50,3 +50,4 @@ handler.tags = ['downloader']
 handler.command = /^play2?$/i
 handler.register = true
 export default handler
+handler.limit = 3
