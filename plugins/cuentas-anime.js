@@ -21,6 +21,6 @@ Pronto  nuevas cuentas aparecerán aquí😼💚
 //¡GRACIAS!
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromosSP', 'status@broadcast')
 }
-handler.command = /^(cuentasanime|CUENTASANIME|VerAnimeGratis|Crunchyroll|veranime)$/i
+handler.command = /^(crunchyroll)$/i
 
 module.exports = handler
